@@ -1,0 +1,7 @@
+.env
+.env.*
+.alerts-state.json
+snapshot.json
+node_modules/
+dist/
+*.log
