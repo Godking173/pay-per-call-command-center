@@ -4,7 +4,7 @@
 
 Who's on a call right now, and how far they are in the script, second by second. Every agent's wallet and who's about to run out. What you made today, this week and this month. What to fix next.
 
-▶ **See it live first:** the demo has 12 made-up agents taking made-up calls in real time (link in the release notes / from whoever shared this with you). Nothing in it is real data.
+▶ **See it live first:** https://claude.ai/artifact/KUQcsDeXjF1Y58MGLGjqi8 (12 made-up agents taking made-up calls in real time). Nothing in it is real data.
 
 ---
 
